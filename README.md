@@ -4,7 +4,7 @@
 
 ![Featured Slider](http://www.designtheway.com/wp-content/uploads/FeaturedSlider_GitHub.jpg)
 
-[Article on DesignTheWay](http://www.designtheway.com/playground/featured-slider-gsap/)
+[Article on DesignTheWay](http://www.designtheway.com/featured-slider-gsap/)
 
 [Demo](http://www.designtheway.com/development/FeaturedSliderGsap/)
 
